@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(3, 120, 173);
+    width: 200px;
+    position: absolute;
+    left: 40%;
+    top: 100px;
+    transform: translate(20px);
+    background-image: url(img\ caixatem.jpg);
+    background-size:50%;
+
+
+}
+img{
+    width:200px ;
+}
