@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(0, 145, 255);
+     width: 200px;
+     position: absolute;
+     left: 40%;
+     top: 300px;
+     transform: translate(20px);
+     background-image: url(img\ caixatem.jpg);
+     background-repeat: no-repeat;
+   
+     
+ 
+ }
+ img{
+     width:200px ;
+ 
+ }

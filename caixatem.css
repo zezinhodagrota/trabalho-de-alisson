@@ -1,15 +1,17 @@
 body{
-   background-color: aqua;
-    width: 200px;
-    position: absolute;
-    left: 40%;
-    top: 100px;
-    transform: translate(20px);
-    background-image: url(img\ caixatem.jpg);
-    background-size:contain;
+    background-color: rgb(255, 255, 255);
+     width: 200px;
+     position: absolute;
+     left: 40%;
+     top: 100px;
+     transform: translate(20px);
+     background-image: url(img\ caixatem.jpg);
+     background-size:contain;
+     
 
-}
-img{
-    width:200px ;
-
-}
+ 
+ }
+ img{
+     width:200px ;
+ 
+ }
