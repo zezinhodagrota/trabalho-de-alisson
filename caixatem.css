@@ -1,17 +1,29 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 204, 255);
      width: 200px;
      position: absolute;
      left: 40%;
      top: 100px;
      transform: translate(20px);
      background-image: url(img\ caixatem.jpg);
-     background-size:contain;
-     
-
- 
+     background-size:contain; 
+     text-align: center;
+     font-size: 100%;
+    
  }
- img{
-     width:200px ;
- 
- }
+.ruan{
+    background-color: rgb(253, 253, 253);
+    border-radius: 5%;
+    color: #000000;
+    outline:none ;
+    padding: 7%;
+    width: 100%;
+   
+    
+}
+button{
+    background-color: rgb(255, 161, 10);
+    border: none;
+    width: 50%;
+    border: ;
+}

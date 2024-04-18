@@ -3,15 +3,14 @@ body{
      width: 200px;
      position: absolute;
      left: 40%;
-     top: 300px;
+     top: 500px;
      transform: translate(20px);
-     background-image: url(img\ caixatem.jpg);
-     background-repeat: no-repeat;
+     background-image: url(caixa\ tem.webp);
+     background-repeat: cover;
    
      
  
  }
- img{
-     width:200px ;
- 
- }
+button{
+    background-color: rgb(255, 146, 3);
+}
