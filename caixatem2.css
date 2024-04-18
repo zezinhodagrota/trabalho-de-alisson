@@ -3,7 +3,7 @@ body{
      width: 200px;
      position: absolute;
      left: 40%;
-     top: 500px;
+     top: 600px;
      transform: translate(20px);
      background-image: url(caixa\ tem.webp);
      background-repeat: cover;
@@ -12,5 +12,10 @@ body{
  
  }
 button{
-    background-color: rgb(255, 146, 3);
-}
+    background-color: rgb(255, 161, 10);
+    border: none;
+    width: 100%;
+    border: 20%;
+ 
+};
+
